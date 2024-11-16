@@ -5,9 +5,8 @@ Asher Goss | IT - Data Analyst Academic Portfolio
 Info:
 
 - Heavily edited in Visual Studio
-- Open URL in desktop or mobile
-- Standard width window will have tabs to navigate
-- Smaller width window will have menu button in upper right to navigate
+- Compatible with desktop, tablet, mobile
+- Navigate by tab or menu button depending on window width
 
 
 Credits:
