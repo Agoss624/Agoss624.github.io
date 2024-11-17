@@ -16,11 +16,14 @@ Credits:
 		html5up.net | @ajlkn
 		Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-	All other images:
-		Generated from deepai.org
+	Music:
+		'Blushes' by Dj Quads (royalty free)
 
 	Background Image:
 		Unsplash (unsplash.com)
+
+	All other images:
+		Generated from deepai.org
 
 	Icons:
 		Font Awesome (fontawesome.io)
